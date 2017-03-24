@@ -6,4 +6,4 @@ deployment:
       - ssh qauser@shopping-dev01.v2.com
       - cd /var/www/vhosts/circlecitesting
       - git pull
-      -git status
+      - git status
